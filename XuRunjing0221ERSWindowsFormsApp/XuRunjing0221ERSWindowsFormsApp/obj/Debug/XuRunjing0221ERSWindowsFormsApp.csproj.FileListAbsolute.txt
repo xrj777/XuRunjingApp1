@@ -1,0 +1,11 @@
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\bin\Debug\XuRunjing0221ERSWindowsFormsApp.exe.config
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\bin\Debug\XuRunjing0221ERSWindowsFormsApp.exe
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\bin\Debug\XuRunjing0221ERSWindowsFormsApp.pdb
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.csproj.AssemblyReference.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.EmployeeRecordsFrom.resources
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.Properties.Resources.resources
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.csproj.GenerateResource.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.exe
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing0221ERSWindowsFormsApp\XuRunjing0221ERSWindowsFormsApp\obj\Debug\XuRunjing0221ERSWindowsFormsApp.pdb
